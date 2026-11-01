@@ -5,6 +5,9 @@ An end-to-end **Customer Churn Analysis project** built using **Excel, MySQL, SQ
 ---
 
 ## 🎯 Project Overview
+## 📊 Dashboard Preview
+
+![E-Commerce Customer Churn Dashboard](./ecommerce-churn-dashboard.png)
 
 The objective of this project is to analyze customer behavior and understand the key factors associated with customer churn in an e-commerce business.
 
